@@ -1,0 +1,11 @@
+{
+  "name": "practice-02",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "examples": "node examples/functions-and-references.js",
+    "start": "node src/main.js",
+    "check": "node checks.js"
+  }
+}
